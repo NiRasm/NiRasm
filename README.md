@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NiRasm
+- 👋 Hi, I’m @NiRasm aka Nicolai Rasmussen 
 - 👀 I’m interested in container, automation with powershell, harden and securing servers
-- 🌱 I’m currently learning to manage CentOS server and setting up Docker
+- 🌱 I’m currently learning to manage Ubuntu server and setting up 
 - 💞️ I’m looking to collaborate on open source projects which include some coding or docker
 - 📫 How to reach me: Nicolairasmussen@live.com
